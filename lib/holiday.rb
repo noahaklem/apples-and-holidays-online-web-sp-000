@@ -92,7 +92,7 @@ def all_holidays_with_bbq(holiday_hash)
     hashes.each do |holiday, supplies|
       supplies.each do |value| 
         if value == "BBQ"
-          binding.pry
+          
           holiday_bbq<< holiday
         end
       end
