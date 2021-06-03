@@ -92,6 +92,7 @@ def all_holidays_with_bbq(holiday_hash)
       if list.values do |item|
         item == BBQ
       end
+      end
     end
   end
 end
