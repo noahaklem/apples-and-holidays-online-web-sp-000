@@ -91,7 +91,6 @@ def all_holidays_with_bbq(holiday_hash)
     supplies_array = hashes.values
      binding.pry
       
-    end
   end
 end
 
